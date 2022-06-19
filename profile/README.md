@@ -1,12 +1,9 @@
-## Hi there 👋
+## Hi 👋
+### Here is the introduction of RW-HPS Team
+A group of enthusiasts dedicated to Rusted Warfare  
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### Members
+[@Dr](https://github.com/deng-rui)  [@1dNDN](https://github.com/1dNDN)  [@HuiAnxiaoxing](https://github.com/HuiAnxiaoxing)  [@JDSA Ling](https://github.com/LingASDJ)  
+[@Minxyzgo](https://github.com/Minxyzgo)  [@wihn](https://github.com/wihn2021)  [@wunameya](https://github.com/wunameya)  [@yiyun](https://github.com/yiyungent)  
+#### Objectives
+生命不息，折腾不止
