@@ -12,5 +12,9 @@ The goal is to provide players with a better gaming experience
 #### Services
 RELAY-CN : RCN Team & RW-HPS Team
 
+### Thanks
+[AnsdoShip Studio](https://github.com/AnsdoShip)  
+[Rukkit Dev](https://github.com/RukkitDev)
 
-生命不息，折腾不止  
+
+**生命不息，折腾不止**
