@@ -13,9 +13,13 @@ The goal is to provide players with a better gaming experience
 #### Services
 RELAY-CN : RCN Team & RW-HPS Team
 
-### Thanks
+### Thanks Team
 [AnsdoShip Studio](https://github.com/AnsdoShip)  
 [Rukkit Dev](https://github.com/RukkitDev)
 
+### Thanks Project
+[Minxyzgo/Rw-Injection](https://github.com/Minxyzgo/Rw-Injection)  
+[Anuken/Arc](https://github.com/Anuken/Arc)
 
+### Slogan
 **生命不息，折腾不止**
