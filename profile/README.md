@@ -23,3 +23,5 @@ RELAY-CN : RCN Team & RW-HPS Team
 
 ### Slogan
 **生命不息，折腾不止**
+
+![21D1572216138A0BBC6EC272FCB720AF](https://user-images.githubusercontent.com/39623218/214835644-1a9cf94d-4cde-4deb-a753-1a6b54c15fbe.jpg)
