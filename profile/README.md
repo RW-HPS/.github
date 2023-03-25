@@ -11,8 +11,8 @@ The goal is to provide players with a better gaming experience
 
 
 #### Services (Chronological order)
-RELAY-CN : RCN Team & RW-HPS Team
-PVP-SERVER-CN : RCN Team
+RELAY-CN : RCN Team & RW-HPS Team  
+PVP-SERVER-CN : RCN Team  
 
 ### Thanks Team
 [AnsdoShip Studio](https://github.com/AnsdoShip)  
