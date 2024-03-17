@@ -6,7 +6,7 @@ A group of enthusiasts dedicated to Rusted Warfare
 [@Dr](https://github.com/deng-rui)  [@1dNDN](https://github.com/1dNDN)  [@HuiAnxiaoxing](https://github.com/HuiAnxiaoxing)  [@JDSA Ling](https://github.com/LingASDJ)  
 [@Minxyzgo](https://github.com/Minxyzgo)  [@wihn](https://github.com/wihn2021)  [@wunameya](https://github.com/wunameya)  [@yiyun](https://github.com/yiyungent)  
 [@Zhou2008](https://github.com/493505110)  [@firesonz](https://github.com/FiresonZ)  [@Stefano](https://github.com/StefanoB2018)  
-[@冰点启航](https://github.com/zerodegress)  [@Mitpoppy](https://github.com/Mitpoppy)    [@wunameya](https://github.com/wunameya)
+[@冰点启航](https://github.com/zerodegress)  [@幻想](https://github.com/Mitpoppy)    [@wunameya](https://github.com/wunameya)
 #### Objectives
 The goal is to provide players with a better gaming experience 
 
